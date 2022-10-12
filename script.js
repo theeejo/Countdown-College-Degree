@@ -3,7 +3,7 @@ const hoursEl = document.getElementById("hours");
 const minutesEl = document.getElementById("minutes");
 const secondsEl = document.getElementById("seconds");
 
-const licenta = '1 Jul 2022';
+const licenta = '1 Jul 2023';
 
 function countdown(){
     const dataLicenta = new Date(licenta);
